@@ -23,7 +23,7 @@
 Clone or download this repository, then open its directory in Termux.
 1
 ```bash
-git clone https://codeberg.org/Firewall-Crusher/White-Bird.git
+git clone https://github.com/UG-ALOK/White-Bird.git
 ```
 ```bash
 cd White-Bird
@@ -63,7 +63,7 @@ An HTTP 200 response only indicates that a page is accessible. It does not confi
 
 **Firewall-Crusher**
 
-Profile: https://codeberg.org/Firewall-Crusher
+Profile: https://github.com/UG-ALOK
 
 ## License
 
